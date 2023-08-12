@@ -1,0 +1,5 @@
+ALINX AX7035 FPGA Development Board - https://www.xilinx.com/products/boards-and-kits/1-1bqbcn8.html
+
+ALINX AV6045: FPGA Development Board - https://www.xilinx.com/products/boards-and-kits/1-t9ddox.html
+
+ALINX AX7A035: Artix-7 XC7A35T - https://www.amazon.com/ALINX-AX7A035-Artix-7-Development-Downloader/dp/B08FYB4RPQ/ref?&linkCode=sl1&tag=ardrobokits-20&linkId=34cf499080d593817c579df9e5de1c30&language=en_US&ref_=as_li_ss_tl
